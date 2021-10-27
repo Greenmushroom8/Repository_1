@@ -1,1 +1,11 @@
 yadda yadda
+
+
+int score = 0;
+
+Update()
+{
+     Trans 
+  
+}
+cxihvbuyvv
